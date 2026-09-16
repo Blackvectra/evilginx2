@@ -7,6 +7,9 @@
 
 # Evilginx 3.0
 
+> Forked from [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2), kept unmodified as reference material for
+> authorized red-team/phishing-simulation engagements. Not an original tool of mine.
+
 **Evilginx** is a man-in-the-middle attack framework used for phishing login credentials along with session cookies, which in turn allows to bypass 2-factor authentication protection.
 
 This tool is a successor to [Evilginx](https://github.com/kgretzky/evilginx), released in 2017, which used a custom version of nginx HTTP server to provide man-in-the-middle functionality to act as a proxy between a browser and phished website.
